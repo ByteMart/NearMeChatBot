@@ -6,7 +6,7 @@ Create Telegram Chat Bot and allow users all over the world to find near by user
 
 💲 **Earn**  **Growing** Steady **Income 💰**
 
-![Profile Image](/assets/NearMeChat.webp)
+![Profile Image](/NearMeChat.webp)
 
 ---
 
