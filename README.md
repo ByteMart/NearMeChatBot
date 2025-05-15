@@ -66,7 +66,7 @@ Empower your business with this powerful bot that attracts users from all over t
 
 - [Get Start](https://t.me/ByteMartBot?start=product_nearmechat)
 - [Play Demo](https://t.me/NearMeChatBot?start=product)
-- [Installation Guide](/doc/installation.html)
+- [Installation Guide](/installation.md)
 
 ---
 
@@ -78,8 +78,8 @@ This license allows users to edit and customize the code to meet their needs, bu
 - Users are allowed to create new products using the base code as a framework, as long as the new products have unique and distinct functionalities from the original code.
 
 **Links:**
-- [License](/license/nearmechat)
-- [Agreement](/agreement)
+- [License](/license.md)
+- [Agreement](/agreement.md)
 
 ---
 
